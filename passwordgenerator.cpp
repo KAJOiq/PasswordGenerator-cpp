@@ -9,7 +9,7 @@ using namespace std;
 
 static const char pass[] = 
 "0123456789"
-"!@#$%^&*"
+"!@#$%^&*<>.,[]{}()"
 "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 "abcdefghijklmnopqrstuvwxyz";
 
