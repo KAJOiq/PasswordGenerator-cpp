@@ -1,3 +1,3 @@
-# PasswordGenerator-cpp
+# PasswordGenerator
 
 Password Generator with c++
